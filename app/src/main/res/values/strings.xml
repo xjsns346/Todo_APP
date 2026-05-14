@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">待办事项</string>
+
+    <string name="home_title">首页</string>
+    <string name="tasks_title">每日任务</string>
+    <string name="anniversaries_title">纪念日</string>
+    <string name="plans_title">拓展事项</string>
+
+    <string name="today_tasks">今日待办</string>
+    <string name="no_tasks_today">今天没有待办事项</string>
+    <string name="add_task">添加任务</string>
+    <string name="add_anniversary">添加纪念日</string>
+    <string name="add_plan">添加拓展事项</string>
+
+    <string name="reminder_notification_title">纪念日提醒: %1$s</string>
+    <string name="reminder_notification_content">该纪念日将在3天后到来</string>
+
+    <string name="no_reminders">暂无纪念日</string>
+    <string name="no_reminders_hint">添加纪念日，在日期前3天收到提醒</string>
+    <string name="notification_sent">已提醒</string>
+    <string name="notification_pending">待提醒</string>
+
+    <string name="no_plans">暂无拓展事项</string>
+    <string name="random_select">灵感随选</string>
+    <string name="random_select_hint">不知道做什么？让命运帮你选择</string>
+    <string name="random_btn">随机选择</string>
+    <string name="selected_label">选中</string>
+</resources>
